@@ -1,6 +1,13 @@
 # Lombric Runner
 
-![Lombric Runner Gameplay](assets/teaser.mp4)
+<p align="center">
+  <video width="512" controls>
+    <source src="assets/teaser.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+
 
 
 <p align="center">
