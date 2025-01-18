@@ -1,5 +1,8 @@
 # Lombric Runner
 
+![Lombric Runner Gameplay](assets/teaser.mp4)
+
+
 <p align="center">
   <img src="assets/IMG_5405.PNG" width="256"/>
   <img src="assets/IMG_5406.PNG" width="256"/>
